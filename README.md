@@ -1,3 +1,6 @@
+
+注意:database包下有两个models,记得删去其中一个才可以运行,并且models应该为全部小写.
+
 If you would like to contribute, fork this repo and submit a pull request. If it involves UI changes, attaching a .gif or video showing your changes would be very much appreciated.
 
 License
